@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+*.bin
+*.elf
+*.map
+
+# PlatformIO
+.pio/
+.vscode/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Arduino IDE
+*.ino.cpp
